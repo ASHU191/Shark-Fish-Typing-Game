@@ -21,13 +21,14 @@ Help the fish escape the shark by typing the given sentence accurately and fast.
 > *(Add your screenshots in `public/screenshots/` and update these paths)*
 
 - **Start Screen**  
-  ![Start Screen](public/screenshots/start.png)
+  ![Start Screen](assets/i1.png)
 
 - **Gameplay**  
-  ![Game Screen](public/screenshots/gameplay.png)
+  ![Game Screen](assets/i2.png)
+  ![Game Screen](assets/i4.png)
 
 - **Win/Loss Screen**  
-  ![Result Screen](public/screenshots/result.png)
+  ![Result Screen](assets/i3.png)
 
 ---
 
